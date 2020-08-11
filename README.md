@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi, I'm Xiang Wei
 
-<!--
-**xwlee/xwlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer at [Seek Asia](https://www.seekasia.com)
 
-Here are some ideas to get you started:
+### I'm currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- TypeScript, reading [TypeScript Quickly](https://www.manning.com/books/typescript-quickly)
+- Golang, reading https://golangbot.com/learn-golang-series/
+
+### My Stats
+
+<a href="https://stackoverflow.com/users/846053/xwlee?tab=profile"><img src="https://stackoverflow.com/users/flair/846053.png"></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwlee)](https://github.com/xwlee)
